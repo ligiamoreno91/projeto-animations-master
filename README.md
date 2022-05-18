@@ -2,3 +2,7 @@
 
 Projeto da aula de Transitions do curso de Full stack developer da DIO com Gabriela Pinheiro 
 
+Veja como ficou:
+
+https://ligiasf.github.io/projeto-animations-master/
+
