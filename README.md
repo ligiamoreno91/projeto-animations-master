@@ -4,5 +4,4 @@ Projeto da aula de Transitions do curso de Full stack developer da DIO com Gabri
 
 Veja como ficou este início:
 
-https://ligiasf.github.io/projeto-animations-master/
-
+https://ligiamoreno91.github.io/projeto-animations-master/
